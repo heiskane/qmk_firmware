@@ -3,5 +3,6 @@
 #define EE_HANDS // Store which side I am in EEPROM
 
 /* Keyboard matrix assignments */
-#define MATRIX_ROW_PINS { GP21, GP20, GP19, GP18, GP10 }
-#define MATRIX_COL_PINS { GP2, GP3, GP4, GP5, GP6, GP7, GP8 }
+// https://imgur.com/wMNx2u6
+#define MATRIX_ROW_PINS { F4, F5, F6, F7, B1 }
+#define MATRIX_COL_PINS { D1, D0, C6, C6, D7, E6, B4 }
