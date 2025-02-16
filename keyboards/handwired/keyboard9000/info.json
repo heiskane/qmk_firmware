@@ -8,11 +8,11 @@
         "pid": "0xFDCB",
         "device_version": "0.0.1"
     },
-    "processor": "atmega32u4",
-    "bootloader": "caterina",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "split": {
-        "soft_serial_pin": "D3",
+        "soft_serial_pin": "GP1",
         "bootmagic": {
             "matrix": [0, 0]
         }
