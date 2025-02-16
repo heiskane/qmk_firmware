@@ -4,12 +4,12 @@
     "url": "https://heiskanen.rocks",
     "maintainer": "heiskane",
     "usb": {
-        "vid": "0x444D",
-        "pid": "0x3435",
+        "vid": "0xFDCB",
+        "pid": "0xFDCB",
         "device_version": "0.0.1"
     },
     "processor": "atmega32u4",
-    "bootloader": "atmel-dfu",
+    "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "split": {
         "soft_serial_pin": "D3",
