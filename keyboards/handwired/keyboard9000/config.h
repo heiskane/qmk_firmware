@@ -1,6 +1,6 @@
 #pragma once
 
-#define EE_HANDS // Store which side I am in EEPROM
+#define MASTER_RIGHT
 
 /* Keyboard matrix assignments */
 // https://imgur.com/wMNx2u6
